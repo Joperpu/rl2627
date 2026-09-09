@@ -1,4 +1,4 @@
-# Redes locales - Curso 25/26
+# Redes locales - Curso 26/27
 
 !!! info "Créditos y licencia"
     Estos apuntes se han elaborado en parte a partir de los materiales de Rafael Lozano, disponibles bajo licencia CC BY-NC-SA 4.0, y de David Martín. Los presentes apuntes se comparten bajo la misma licencia CC BY-NC-SA 4.0.
