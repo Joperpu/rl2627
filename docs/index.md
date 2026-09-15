@@ -35,9 +35,9 @@ El módulo busca que el alumnado alance los siguientes objetivos expresados como
 
 ## Sesiones
 
-- Lunes de 13:00 a 15:00 horas.
-- Martes de 13:00 a 15:00 horas.
-- Viernes de 12:00 a 15:00 horas.
+- Martes de 8:30 a 9:30 horas, de 10:30 a 11:30 horas y de 14:00 a 15:00 horas.
+- Jueves de 13:00 a 15:00 horas.
+- Viernes de 12:00 a 13:00 horas y de 14:00 a 15:00 horas.
 
 ## Contenidos
 
